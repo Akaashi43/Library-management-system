@@ -30,8 +30,9 @@ Ensure you have the following installed on your system:
 ### Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repository/library-management.git
+   https://github.com/Akaashi43/Library-management-system.git
    cd library-management
+   Extract the zip file 
    ```
 
 2. **Create a virtual environment (Optional but recommended):**
